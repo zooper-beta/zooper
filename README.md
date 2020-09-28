@@ -1,0 +1,2 @@
+# zooper-cli
+Zooper CLI
