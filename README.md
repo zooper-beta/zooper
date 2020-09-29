@@ -1,2 +1,3 @@
-# zooper-cli
+# Zooper CLI
+
 Zooper CLI
